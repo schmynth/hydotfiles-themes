@@ -1,5 +1,7 @@
 $HOME/.config/btop/themes/wallbash.theme|${scrDir}/set_corner_radius.sh
 
+# Catppuccin Latte
+
 # Main text color
 theme[main_fg]="#4c4f69"
 
