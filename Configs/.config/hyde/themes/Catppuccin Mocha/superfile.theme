@@ -21,11 +21,11 @@ footer_border_active = "#a6da95"     # Green
 modal_border_active = "#939ab7"      # Overlay2
 
 # ========= Background (bg) =========
-full_screen_bg = "#24273a" # Base
-file_panel_bg = "#24273a"  # Base
-sidebar_bg = "#24273a"     # Base
-footer_bg = "#24273a"      # Base
-modal_bg = "#24273a"       # Base
+# full_screen_bg = "#24273a" # Base
+# file_panel_bg = "#24273a"  # Base
+# sidebar_bg = "#24273a"     # Base
+# footer_bg = "#24273a"      # Base
+# modal_bg = "#24273a"       # Base
 
 # ========= Foreground (fg) =========
 full_screen_fg = "#a5adcb" # Subtext0
