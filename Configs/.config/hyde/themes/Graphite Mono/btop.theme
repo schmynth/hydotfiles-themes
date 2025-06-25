@@ -1,0 +1,80 @@
+$HOME/.config/btop/themes/wallbash.theme|${scrDir}/set_corner_radius.sh --zero-radius
+
+# Graphite Mono
+
+# Main text color
+theme[main_fg]="#D3D3D3"
+
+# Title color for boxes
+theme[title]="#E3"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#77"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3D3D3D"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#FCFCFC"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#949494"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#22"
+
+
+# Cpu box outline color
+theme[cpu_box]="#7D"
+
+# Memory/disks box outline color
+theme[mem_box]="#7D"
+
+# Net up/down box outline color
+theme[net_box]="#7D"
+
+# Processes box outline color
+theme[proc_box]="#7D"
+
+# Box divider line and small boxes line color
+theme[div_line]="#828282"
+
+# Temperature graph colors
+theme[temp_start]="#00"
+theme[temp_mid]="#d4"
+theme[temp_end]="#ff"
+
+# CPU graph colors
+theme[cpu_start]="#3D"
+theme[cpu_mid]="#88"
+theme[cpu_end]="#FF"
+
+# Mem/Disk free meter
+theme[free_start]="#3D3D3D"
+theme[free_mid]="#3D3D3D"
+theme[free_end]="#3D3D3D"
+
+# Mem/Disk cached meter
+theme[cached_start]="#991199"
+theme[cached_mid]="#770a55"
+theme[cached_end]="#550055"
+
+# Mem/Disk available meter
+theme[available_start]="#3D3D3D"
+theme[available_mid]="#3D3D3D"
+theme[available_end]="#3D3D3D"
+
+# Mem/Disk used meter
+theme[used_start]="#00"
+theme[used_mid]="#00"
+theme[used_end]="#80"
+
+# Download graph colors
+theme[download_start]="#00bcd4"
+theme[download_mid]="#991199"
+theme[download_end]="#ff0040"
+
+# Upload graph colors
+theme[upload_start]="#00bcd4"
+theme[upload_mid]="#991199"
+theme[upload_end]="#ff0040"
