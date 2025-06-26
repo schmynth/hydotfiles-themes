@@ -37,7 +37,7 @@ theme[net_box]="#4B677D"
 theme[proc_box]="#4B677D"
 
 # Box divider line and small boxes line color
-theme[div_line]="#6588A3"
+theme[div_line]="#4B677D"
 
 # Temperature graph colors
 theme[temp_start]="#00bcd4"
