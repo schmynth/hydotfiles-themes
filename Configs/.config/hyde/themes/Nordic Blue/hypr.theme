@@ -1,4 +1,4 @@
-$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
+HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 #  ___________      _________                        __
 #  \__    ___/      \_   ___ \_______ ___.__._______/  |_
 #   |    |  ______ /    \  \/\_  __ <   |  |\____ \   __\
@@ -21,8 +21,8 @@ general {
     gaps_in = 3
     gaps_out = 8
     border_size = 2
-    col.active_border = rgba(5A9ACAB4) rgba(ECD3A0FF) 45deg
-    col.inactive_border = rgba(1E8B50D9) rgba(32B032D9) 45deg
+    col.active_border = rgba(5A9ACAB4)
+    col.inactive_border = rgba(D9D9D9D9)
     layout = dwindle
     resize_on_border = true
 }
