@@ -1,0 +1,8 @@
+$HOME/.config/nwg-dock-hyprland/theme.css|${scrDir}/dockstylegen.sh
+@define-color bar-bg rgba(255,255,255,0.8);
+@define-color main-bg rgba(0,0,0,0.8);
+@define-color main-fg rgba(250,218,22,1);
+@define-color wb-act-bg rgba(101,77,77,0.4);
+@define-color wb-act-fg rgba(82,41,41,1);
+@define-color wb-hvr-bg rgba(230,154,181,0.4);
+@define-color wb-hvr-fg rgba(58,107,107,0.8);
